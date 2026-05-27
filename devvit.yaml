@@ -1,0 +1,4 @@
+name: civicguard
+version: 1.0.0
+description: Community Health & Misinformation Shield — helps moderators protect communities from health misinformation, crisis exploitation, and coordinated harmful content
+entrypoint: src/main.tsx
